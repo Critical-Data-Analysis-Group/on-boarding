@@ -1,6 +1,6 @@
 ---
 title: "Getting Started"
-author: "ADD YOUR NAME"
+author: "Lindsay Poirier"
 date: "8/19/2021"
 output: html_document
 ---

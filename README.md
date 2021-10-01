@@ -10,8 +10,8 @@
 8. Create a project in RStudio from this GitHub repo by following the instructions starting at 26 seconds of this video:  https://vimeo.com/511804881 (start at 26 seconds)
 9. Install the rmarkdown package in RStudio by entering the following lines of code in the Console Pane of RStudio (lower left hand corer on initial install).  
 
-```install.packages("rmarkdown")
-library(rmarkdown)```
+```install.packages("rmarkdown")```
+```library(rmarkdown)```
 
 10. Open the file getting_started.Rmd in the Files tab of RStudio. On the initial install, the Files tab will be in the lower right hand corner of RStudio.
 11. Follow instructions in getting_started.Rmd.

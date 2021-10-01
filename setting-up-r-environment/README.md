@@ -35,8 +35,7 @@ library(rmarkdown)
 
 11. In the Environment panel (upper right hand corner), click on the Git tab. The branch will be set to main (see image below). Add a new branch by clicking the icon with two purple boxes (See image below.) Name your branch yourinitials-getting-started (e.g. Lindsay's would be lp-getting-started). Make sure you are in your branch (i.e. where it used to say 'main', it will now have your branch name). 
 
-
-
+![Git Panel/Branching](images/git_panel.png)
 
 12. On the initial install, the Files tab will be in the lower right hand corner of RStudio. Open the setting-up-r-environment folder and then **make a copy** of the getting-started.Rmd file. The copy should be stored in the member-files folder and have your name appended to the file name by a '-'. In other words the file name will be getting-started-your-name.Rmd. You can do this by clicking the checkbox next to getting-started.Rmd, clicking the blue gear icon next to the word 'More', selecting 'Copy To', clicking on the member-files folder, and adding your name after a dash ('-') to the existing file name (See images). 
 

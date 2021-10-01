@@ -33,7 +33,7 @@ library(rmarkdown)
 
 ![RStudio Panels](images/rstudio_panels.png)
 
-11. Open the file getting-started.Rmd in the Files tab of RStudio. On the initial install, the Files tab will be in the lower right hand corner of RStudio.
+11. Open the setting-up-r-environment folder and then the getting-started.Rmd file in the Files tab of RStudio. On the initial install, the Files tab will be in the lower right hand corner of RStudio.
 12. Follow instructions in getting-started.Rmd.
 13. When the file tells you to commit your code, follow the instructions in this video starting at 14 seconds: 
 

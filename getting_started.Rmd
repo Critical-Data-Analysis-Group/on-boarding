@@ -9,7 +9,7 @@ output: html_document
 knitr::opts_chunk$set(echo = TRUE)
 ```
 
-Final project assignments for this course will be written in R Markdown. This is an R Markdown document. There are three components of this document that we will pay attention to in this assignment:
+Lab documents will be written in R Markdown. This is an R Markdown document. There are three components of this document that we will pay attention to in this file:
 
 1. the YAML header at the top of the document
 2. the Markdown syntax used throughout the document
@@ -21,13 +21,13 @@ R Markdown documents begin with a YAML header. This is the text that you see bet
 
 > Checkpoint 1: Add your name as the author of this document by editing the YAML header where it says to ADD YOUR NAME. Be sure to keep the quotation marks around your name.
 
-> After successfully completing checkpoint 1, commit your code (see instructions on Moodle).
+> After successfully completing checkpoint 1, commit your code (see instructions in Readme).
 
-In this course, we will sometimes publish Markdown files as HTML documents (web documents) and sometimes as PDF documents. To compile this .Rmd file as one of these documents, we need to 'knit' the file. You can knit this document, but clicking the 'Knit' button in the taskbar above. This document is currently set to output as an HTML file. We know this because in the YAML header, the 'output' key is followed by the value 'html_document'.
+For this research, we will sometimes publish Markdown files as HTML documents (web documents) and sometimes as PDF documents. To compile this .Rmd file as one of these documents, we need to 'knit' the file. You can knit this document, but clicking the 'Knit' button in the taskbar above. This document is currently set to output as an HTML file. We know this because in the YAML header, the 'output' key is followed by the value 'html_document'.
 
 > Checkpoint 2: Click 'Knit' in the taskbar above. A new window will open with this document formatted as an HTML document. Change the output from html_document to pdf_document. Click 'Knit' again. Notice how the output changes.
 
-> After successfully completing checkpoint 2, commit your code again (see instructions on Moodle).
+> After successfully completing checkpoint 2, commit your code again.
 
 ## Markdown
 
@@ -55,13 +55,13 @@ If we want to add bullets to an R Markdown file, we can add asterisks (*) and a 
 
 If we want to add a hyper-link to an R Markdown file, we can place the text we want hyper-linked in brackets '[]' and the link in parentheses '()' immediately following the bracketed text:
 
-[This is a link to our GitHub organization.](https://github.com/SDS-237-Data-Ethnography)
+[This is a link to our GitHub organization.](https://github.com/Critical-Data-Analysis-Group)
 
 Section 3 of [this Cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/02/rmarkdown-cheatsheet.pdf) provides a more comprehensive list of syntax rules for R Markdown. 
 
 > Checkpoint 3: Format the capitalized text immediately below this set of instructions as **bold** text. Then knit the document to check how the text gets displayed in your published document. 
 
-> After successfully completing checkpoint 3, commit your code again (see instructions on Moodle).
+> After successfully completing checkpoint 3, commit your code again.
 
 Make THIS TEXT bold. 
 
@@ -91,6 +91,6 @@ Section 5 of [this Cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/0
 
 DELETE THIS TEXT AND ADD CODE CHUNK HERE
 
-> Stage, commit, and push your code following instructions on Moodle.
+> Stage, commit, and push your code following instructions on GitHub.
 
 

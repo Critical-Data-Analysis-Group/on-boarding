@@ -33,12 +33,24 @@ library(rmarkdown)
 
 ![RStudio Panels](images/rstudio_panels.png)
 
-11. Open the setting-up-r-environment folder and then the getting-started.Rmd file in the Files tab of RStudio. On the initial install, the Files tab will be in the lower right hand corner of RStudio.
-12. Follow instructions in getting-started.Rmd.
-13. When the file tells you to commit your code, follow the instructions in this video starting at 14 seconds: 
+11. In the Environment panel (upper right hand corner), click on the Git tab. The branch will be set to main (see image below). Add a new branch by clicking the icon with two purple boxes (See image below.) Name your branch yourinitials-getting-started (e.g. Lindsay's would be lp-getting-started). Make sure you are in your branch (i.e. where it used to say 'main', it will now have your branch name). 
+
+
+
+
+12. On the initial install, the Files tab will be in the lower right hand corner of RStudio. Open the setting-up-r-environment folder and then **make a copy** of the getting-started.Rmd file. The copy should be stored in the member-files folder and have your name appended to the file name by a '-'. In other words the file name will be getting-started-your-name.Rmd. You can do this by clicking the checkbox next to getting-started.Rmd, clicking the blue gear icon next to the word 'More', selecting 'Copy To', clicking on the member-files folder, and adding your name after a dash ('-') to the existing file name (See images). 
+
+![Select 'More' Icon and Copy To](images/more.png)
+
+![Move to member files and add name to file name](images/update_location_and_name.png)
+
+13. Open getting-started-your-name.Rmd, and follow instructions.
+14. When the file tells you to commit your code, follow the instructions in this video starting at 14 seconds: 
 
 <p><a href="https://vimeo.com/511800674">Make a Commit and View More History</a> from <a href="https://vimeo.com/user95475944">David Keyes</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
-14. Push your code to GitHub.com by following the instructions in this video starting at 27 seconds:
+15. Push your code to GitHub.com by following the instructions in this video starting at 27 seconds:
 
 <p><a href="https://vimeo.com/511805399">General Workflow: Push</a> from <a href="https://vimeo.com/user95475944">David Keyes</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
+
+16. Navigate to https://github.com/Critical-Data-Analysis-Group/on-boarding and click on the Pull Requests tab. Click New Pull Request. Where the button says 'base: ' make sure 'main' is selected. Where the button says 'compare: ' make sure your branch is selected. Click Create Pull Request.

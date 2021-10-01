@@ -6,7 +6,7 @@
 4. Edit your git config by following these instructions: https://vimeo.com/511798861
 5. Create a personal access token by following these instructions: https://vimeo.com/511801645  
 6. Store your personal access token by following these instructions: https://vimeo.com/511803103
-7. Copy this URL: https://github.com/Critical-Data-Analysis-Group/dataset-guides
+7. Copy this URL: https://github.com/Critical-Data-Analysis-Group/on-boarding
 8. Create a project in RStudio from this GitHub repo by following the instructions starting at 26 seconds of this video:  https://vimeo.com/511804881 (start at 26 seconds)
 9. Install the rmarkdown package in RStudio by entering the following lines of code in the Console Pane of RStudio (lower left hand corer on initial install).  
 

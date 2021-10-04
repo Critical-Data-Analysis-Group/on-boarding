@@ -1,8 +1,12 @@
 ---
 title: "Critical Data Analysis Group Collaboration Protocols"
 author: "Lindsay Poirier"
-date: "10/4/2021"
-output: html_document
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output: 
+  rmdformats::readthedown:
+    df_print: paged
+editor_options: 
+  chunk_output_type: inline
 ---
 
 # About the Lab Book
@@ -163,6 +167,10 @@ We maintain a shared Google Drive for all shared lab documents and files that ar
 * etc. 
 
 Be sure to reference the Drive Organization file for guidance on where to store files in the Google Drive. 
+
+## Code and Data Documentation
+
+For code and data documentation, we will follow the [Hack for California Guidelines](https://docs.google.com/document/d/1f3isQQS7uho_vto2Bf5HvbZBtUA0Pe0f7NlR_ARjTQ8/edit?usp=sharing) (soon to be updated and adapted for our specific work.)
 
 # Authorship & Acknowledgements
 

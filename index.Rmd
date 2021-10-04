@@ -1,6 +1,6 @@
 ---
 title: "Critical Data Analysis Group Collaboration Protocols"
-author: "Lindsay Poirier"
+author: "Prof. Lindsay Poirier"
 date: "`r format(Sys.time(), '%d %B, %Y')`"
 output: 
   rmdformats::readthedown:

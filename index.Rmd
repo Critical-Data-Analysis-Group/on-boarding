@@ -13,7 +13,10 @@ editor_options:
 
 Welcome to the Critical Data Analysis Group Collaboration Protocols! Here we outline the values that guide our work, group roles and responsibilities, protocols for facilitating meetings, guidelines for documenting our work, and expectations on group conduct. 
 
-These protocols are inspired from the work of several groups that inspire us - in particular the [Carceral Ecologies Lab Book](https://github.com/Carceral-Ecologies/lab_book), the [CLEAR Lab Book](https://civiclaboratory.nl/clear-lab-book/), the [Aly Lab Manual](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf), the PECE Design Team Protocols, and the Energy Rights Project Protocols. Citations are provided throughout the document where text is drawn directly from these sources documents. Further, the protocols are continuously being collectively (re)authored as new members join the group. 
+These protocols are inspired from the work of several groups that inspire us - in particular the [Carceral Ecologies Lab Book](https://github.com/Carceral-Ecologies/lab_book), the [CLEAR Lab Book](https://civiclaboratory.nl/clear-lab-book/), the [Aly Lab Manual](https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf), the PECE Design Team Protocols, and the Energy Rights Project Protocols. In-text citations are provided throughout the document where text is drawn directly from these sources documents. Full citations of these resources are listed in the References section.
+
+
+Further, the protocols are continuously being collectively (re)authored as new members join the group. 
 
 # About the Lab
 
@@ -63,9 +66,9 @@ As the director of the Critical Data Analysis Group, I commit to:
 
 As a student researcher, you will be expected to:
 
-* *Take care of your physical and mental well-being first.* If you are sick or burnt out, please stay home. If possible, let us know that you need to step back. The [Schacht Center](https://www.smith.edu/student-life/health-wellness) has a number of resources available to help navigate distressing times. 
+* *Take care of your physical and mental well-being first.* If you are sick or burnt out, please stay home. If possible, let us know ahead of time that you need to step back. The [Schacht Center](https://www.smith.edu/student-life/health-wellness) has a number of resources available to help navigate distressing times. 
 * *Attend weekly lab meetings.* Lab meetings are held weekly for one-hour. In these meetings, we discuss how we operate as a lab and as a community, along with our progress on a number of projects. Please let us know ahead of time if you cannot make a meeting via the #general channel on Slack - preferably at least 24 hours in advance (though we recognize this is not always possible). You do not need to explain why you cannot attend a meeting in this message, but please don't create a habit of missing meetings. 
-* *Take personal initiative with group support.* While we collaborate as a team, each individual member of our group has a personal responsibility to ensure that their contributions to the work gets done. There will not be a great deal of oversight of your work, so we expect that each member will take steps to manage their time effectively, honestly communicate their capacity to contribute, and let us know if/when they need to re-evaluate their time commitments. To help cultivate and sustain this culture of accountability, all group members are encouraged to support each other by outlining **manageable** tasks, helping out with tasks in times of struggle (when asked), and respecting a group member's decision to step back when needed. 
+* *Take personal initiative with group support.* While we collaborate as a team, each individual member of our group has a personal responsibility to ensure that their contributions to the work get done. There will not be a great deal of oversight of your work, so we expect that each member will take steps to manage their time effectively, honestly communicate their capacity to contribute, and let us know if/when they need to re-evaluate their time commitments. To help cultivate and sustain this culture of accountability, all group members are encouraged to support each other by outlining **manageable** tasks, helping out with tasks in times of struggle (when asked), and respecting a group member's decision to step back when needed. 
 * *Problem solve when you can. Ask questions when you are unsure.* We are all here to help each other navigate this work, and we encourage you to ask questions and request help when it's needed. Still, attempting to problem solve when you can demonstrates that you value your collaborator's time, so try that first. If you learn how to do something that might be helpful to others, share it in our Slack Workspace! 
 * *Contribute to a caring and collaborative environment.* Celebrate each other's successes, respect each other's individual strengths and weaknesses, demonstrate compassion for each other’s struggles, and affirm each other's diverse identities. 
 * *Mistakes happen. Admit mistakes, and then move on.*
@@ -189,5 +192,13 @@ The Critical Data Analysis Group is dedicated to providing a harassment-free exp
 This code of conduct applies to all Critical Data Analysis Group spaces, including lab meetings, our Slack Workspace, and our GitHub, both online and off. Anyone who violates this code of conduct may be sanctioned or expelled from these spaces at the discretion of the project director.
 
 Some Critical Data Analysis Group spaces may have additional rules in place, which will be made clearly available to participants. Participants are responsible for knowing and abiding by these rules.
+
+# References
+
+Aly Lab. (2021). *Aly Lab Manual.* Columbia University.  https://github.com/alylab/labmanual/blob/master/aly-lab-manual.pdf 
+
+Carceral Ecologies Lab. (2021). *Lab Book (draft version)* University of California Los Angeles. https://github.com/Carceral-Ecologies/lab_book
+
+CLEAR. (2021). *CLEAR Lab Book: A living manual of our values, guidelines, and protocols, V.03.* St. John’s, NL: Civic Laboratory for Environmental Action Research, Memorial University of Newfoundland and Labrador.
 
 

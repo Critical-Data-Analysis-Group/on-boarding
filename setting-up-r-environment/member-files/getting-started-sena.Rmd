@@ -19,7 +19,7 @@ Lab documents will be written in R Markdown. This is an R Markdown document. The
 
 R Markdown documents begin with a YAML header. This is the text that you see between the '---' (lines 1-6 of this document). This header includes a number of key-value pairs that provide metadata about the document (such as its title, who created it, when it was last updated, and the format in which it should be published). There are certain keys that appear by default in R Markdown files (e.g. title, author, date, output). Depending on the output format you specify, there may be additional options (such as whether your document should have a table of contents and how figures should be sized by default).
 
-> Checkpoint 1: Add your name as the author of this document by editing the YAML header where it says to ADD YOUR NAME. Be sure to keep the quotation marks around your name.
+> Checkpoint 1: Add your name as the author of this document by editing the YAML header where it says to ADD YOUR NAME. Be sure to keep the quotation marks around your name
 
 > After successfully completing checkpoint 1, commit your code (see instructions in Readme).
 

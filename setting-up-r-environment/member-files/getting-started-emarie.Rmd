@@ -89,7 +89,10 @@ Section 5 of [this Cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/0
 
 > Checkpoint 4: Add a code chucnk below. Copy and paste the following code and place it in the code chunk: plot(cars) Referencing the linked cheatsheet, set the figure width to 3 and the figure height to 3. (You will need to separate these options with a comma.) 'Knit' the document to see how your plot renders in the document.
 
-DELETE THIS TEXT AND ADD CODE CHUNK HERE
+```{r, fig.height=3, fig.width=3, echo=FALSE}
+plot(cars)
+
+```
 
 > Stage, commit, and push your code following instructions on GitHub.
 

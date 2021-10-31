@@ -1,8 +1,8 @@
 ---
 title: "Getting Started"
-author: "ADD YOUR NAME"
+author: "Emarie Rose De La Nuez"
 date: "8/19/2021"
-output: html_document
+output: pdf_document
 ---
 
 ```{r setup, include=FALSE}

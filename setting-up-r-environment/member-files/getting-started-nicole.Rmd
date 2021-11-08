@@ -94,7 +94,7 @@ Section 5 of [this Cheatsheet](https://www.rstudio.com/wp-content/uploads/2015/0
 ```{r}
 plot(cars)
 fig.width= 3
-fig.height=3
+fig.height= 3
 ```
 > Stage, commit, and push your code following instructions on GitHub.
 

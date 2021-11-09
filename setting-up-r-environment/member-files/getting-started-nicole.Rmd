@@ -83,7 +83,6 @@ By default when you publish a document with a code chunk, both the code block an
 
 ```{r echo=FALSE}
 # By setting echo=FALSE here, this code block will only display the output of the last code chunk when published
-
 sum
 ```
 
